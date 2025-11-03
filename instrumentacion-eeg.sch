@@ -11579,12 +11579,12 @@ Source: &lt;a href="https://www.espressif.com/sites/default/files/documentation/
 <instance part="+3V10" gate="G$1" x="57.30875" y="-74.6125" smashed="yes">
 <attribute name="VALUE" x="54.76875" y="-79.6925" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R6" gate="G$1" x="18.57375" y="-98.425" smashed="yes">
-<attribute name="NAME" x="13.97" y="-96.45015" size="1.778" layer="95"/>
-<attribute name="VALUE" x="14.76375" y="-101.727" size="1.778" layer="96"/>
+<instance part="R6" gate="G$1" x="17.30375" y="-96.99625" smashed="yes">
+<attribute name="NAME" x="12.7" y="-95.0214" size="1.778" layer="95"/>
+<attribute name="VALUE" x="13.49375" y="-100.29825" size="1.778" layer="96"/>
 </instance>
-<instance part="GND16" gate="1" x="24.13" y="-90.96375" smashed="yes">
-<attribute name="VALUE" x="21.59" y="-93.50375" size="1.778" layer="96"/>
+<instance part="GND16" gate="1" x="24.13" y="-105.56875" smashed="yes">
+<attribute name="VALUE" x="21.59" y="-108.10875" size="1.778" layer="96"/>
 </instance>
 <instance part="R9" gate="G$1" x="41.275" y="-66.51625" smashed="yes">
 <attribute name="NAME" x="36.67125" y="-64.5414" size="1.778" layer="95"/>
@@ -11766,7 +11766,11 @@ Source: &lt;a href="https://www.espressif.com/sites/default/files/documentation/
 <pinref part="IC3" gate="G$1" pin="V-"/>
 <wire x1="24.13" y1="-84.29625" x2="27.46375" y2="-84.29625" width="0.1524" layer="91"/>
 <pinref part="GND16" gate="1" pin="GND"/>
-<wire x1="24.13" y1="-84.29625" x2="24.13" y2="-88.42375" width="0.1524" layer="91"/>
+<wire x1="24.13" y1="-84.29625" x2="24.13" y2="-96.99625" width="0.1524" layer="91"/>
+<pinref part="R6" gate="G$1" pin="2"/>
+<wire x1="24.13" y1="-96.99625" x2="24.13" y2="-103.02875" width="0.1524" layer="91"/>
+<wire x1="22.38375" y1="-96.99625" x2="24.13" y2="-96.99625" width="0.1524" layer="91"/>
+<junction x="24.13" y="-96.99625"/>
 </segment>
 </net>
 <net name="VSS" class="0">
@@ -12265,9 +12269,8 @@ Source: &lt;a href="https://www.espressif.com/sites/default/files/documentation/
 <net name="N$7" class="0">
 <segment>
 <pinref part="R6" gate="G$1" pin="1"/>
-<wire x1="13.49375" y1="-98.425" x2="14.12875" y2="-86.6775" width="0.1524" layer="91"/>
-<junction x="14.12875" y="-86.6775"/>
-<wire x1="14.12875" y1="-86.6775" x2="14.12875" y2="-86.83625" width="0.1524" layer="91"/>
+<wire x1="12.22375" y1="-96.99625" x2="12.22375" y2="-86.83625" width="0.1524" layer="91"/>
+<junction x="12.22375" y="-86.83625"/>
 </segment>
 </net>
 <net name="N$14" class="0">
@@ -12297,12 +12300,10 @@ Source: &lt;a href="https://www.espressif.com/sites/default/files/documentation/
 <wire x1="61.75375" y1="-66.51625" x2="61.75375" y2="-81.75625" width="0.1524" layer="91"/>
 <label x="63.8175" y="-81.75625" size="1.778" layer="95"/>
 </segment>
-</net>
-<net name="N$8" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="IO15"/>
 <wire x1="166.84625" y1="-57.62625" x2="154.14625" y2="-57.62625" width="0.1524" layer="91"/>
-<wire x1="154.14625" y1="-57.62625" x2="154.14625" y2="-57.785" width="0.1524" layer="91"/>
+<label x="154.78125" y="-57.4675" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
