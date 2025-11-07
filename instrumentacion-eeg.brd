@@ -149,7 +149,7 @@
 <wire x1="63.417875" y1="80" x2="0" y2="80" width="0" layer="20"/>
 <wire x1="0" y1="80" x2="0" y2="0" width="0" layer="20"/>
 <text x="6.62625625" y="58.626203125" size="0.0808" layer="1" font="vector">Realizado por: Valentina Betancourt, Javier Lopez</text>
-<text x="2.989896875" y="54.262571875" size="0.8128" layer="25" font="vector">Realizado por: 
+<text x="3.515096875" y="52.969771875" size="0.8128" layer="25" font="vector">Realizado por: 
 Valentina Betancourt
  Javier Lopez</text>
 <rectangle x1="5.6762" y1="74.5986" x2="7.2114" y2="74.639" layer="1"/>
