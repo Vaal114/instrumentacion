@@ -12003,12 +12003,12 @@ Source: &lt;a href="https://www.espressif.com/sites/default/files/documentation/
 <segment>
 <wire x1="187.6425" y1="79.375" x2="187.6425" y2="71.755" width="0.1524" layer="91"/>
 <pinref part="IC9" gate="G$1" pin="EN"/>
-<wire x1="187.6425" y1="71.755" x2="187.6425" y2="66.19875" width="0.1524" layer="91"/>
+<wire x1="187.6425" y1="71.755" x2="187.6425" y2="66.51625" width="0.1524" layer="91"/>
 <wire x1="187.6425" y1="79.375" x2="191.77" y2="79.375" width="0.1524" layer="91"/>
 <pinref part="S3" gate="G$1" pin="COM"/>
 <wire x1="156.5275" y1="75.2475" x2="142.875" y2="75.2475" width="0.1524" layer="91"/>
-<wire x1="142.875" y1="75.2475" x2="142.875" y2="66.19875" width="0.1524" layer="91"/>
-<wire x1="142.875" y1="66.19875" x2="187.6425" y2="66.19875" width="0.1524" layer="91"/>
+<wire x1="142.875" y1="75.2475" x2="142.875" y2="66.51625" width="0.1524" layer="91"/>
+<wire x1="142.875" y1="66.51625" x2="187.6425" y2="66.51625" width="0.1524" layer="91"/>
 <pinref part="IC9" gate="G$1" pin="IN"/>
 <wire x1="191.77" y1="71.755" x2="187.6425" y2="71.755" width="0.1524" layer="91"/>
 <junction x="187.6425" y="71.755"/>
