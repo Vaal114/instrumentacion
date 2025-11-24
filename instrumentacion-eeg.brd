@@ -1037,6 +1037,8 @@ Valentina Betancourt
 <rectangle x1="0.1818" y1="53.7522" x2="1.515" y2="53.7926" layer="1" rot="R90"/>
 <rectangle x1="0.303" y1="53.7926" x2="1.313" y2="53.833" layer="1" rot="R90"/>
 <rectangle x1="0.505" y1="53.833" x2="1.0302" y2="53.8734" layer="1" rot="R90"/>
+<dimension x1="0" y1="0" x2="0" y2="72.7484" x3="-11.5948" y3="36.3742" textsize="1.778" layer="1"/>
+<dimension x1="63.119" y1="0" x2="0" y2="0" x3="31.5595" y3="-5.5348" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">

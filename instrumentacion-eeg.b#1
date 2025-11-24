@@ -3191,24 +3191,24 @@ design rules under a new name.</description>
 <vertex x="0" y="22.86"/>
 </polygon>
 <polygon width="0.1524" layer="1" isolate="0.254" orphans="yes">
-<vertex x="0.03513125" y="80.043728125"/>
-<vertex x="35.56" y="80.043728125"/>
+<vertex x="0.03513125" y="72.771728125"/>
+<vertex x="35.56" y="72.771728125"/>
 <vertex x="35.56" y="66.04"/>
 <vertex x="53.34" y="66.04"/>
-<vertex x="53.34" y="73.66"/>
-<vertex x="63.1644" y="73.66"/>
+<vertex x="53.34" y="72.771"/>
+<vertex x="63.1644" y="72.771"/>
 <vertex x="63.1644" y="45.72"/>
 <vertex x="33.02" y="45.72"/>
 <vertex x="33.02" y="47.3712"/>
 <vertex x="0.03513125" y="47.3712"/>
 </polygon>
 <polygon width="0.1524" layer="16" isolate="0.254" orphans="yes">
-<vertex x="0" y="79.8992"/>
-<vertex x="35.56" y="79.8992"/>
+<vertex x="0" y="72.7484"/>
+<vertex x="35.56" y="72.7484"/>
 <vertex x="35.56" y="66.04"/>
 <vertex x="53.34" y="66.04"/>
-<vertex x="53.34" y="80.01"/>
-<vertex x="63.119" y="80.01"/>
+<vertex x="53.34" y="72.644"/>
+<vertex x="63.119" y="72.644"/>
 <vertex x="63.119" y="0"/>
 <vertex x="0" y="0"/>
 </polygon>
